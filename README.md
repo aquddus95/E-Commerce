@@ -14,4 +14,4 @@ Aside from the main feature of allowing multiple users to place one order, other
 
 Though it may be confusing to navigate through the different files of this project, the essential core functionality lies within the views.py file. The file can be found at the path: CheapHerder/CheapHerder/views.py
 
-DEMO DEMONSTRATION: A Demo of the application can be found on YouTube: https://www.youtube.com/watch?v=Zz4h4_KdsfI
+DEMO DEMONSTRATION: A Demo of the application, conducted by me and another group member, can be found on YouTube: https://www.youtube.com/watch?v=Zz4h4_KdsfI
