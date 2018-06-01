@@ -2,6 +2,7 @@
 
 Readme for Cheapherder
 
+-Note group repo link where development for the application occured: https://github.com/HeyYouNotYouYou/cs411-cheapherder 
 
 The following application allows users to place an order on a product collectively. The thought process behind this is that if one is to visit a wholesale website such as Alibaba then what becomes apparent is that there is a required minimum quantity purchase for said item. For instance, say we wanted to purchase water bottles from Alibaba. Most of the water bottle products listed on there will have a minimum quantity purchase of 1000 items. The cheap prices for items available on Alibaba are due in part to the fact that the user is required to order a massive quantity of said product. Our application allows multiple users to place an order on one product. So if we go back to our water bottle example, one user may pledge to buy 200 water bottles while another may pledge to buy 50. Until the minimum quantity requirement is not met, the group order is available for any user to pledge a certain amount. Allowing users to collectively place an order not only helps the user get a much lower price on a product but also takes away the burden from having to order an unnecessary amount for a particular product. 
 
