@@ -1,6 +1,6 @@
 # E-Commerce-CheapHerder
 
-Readme for Cheapherder (note project was developed using python 2.7 and Django version 1.11)
+Readme for Cheapherder (note project was developed using Django version 1.11)
 
 -Note group repo link where development for the application occured: https://github.com/HeyYouNotYouYou/cs411-cheapherder 
 
